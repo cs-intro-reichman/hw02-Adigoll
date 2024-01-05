@@ -18,6 +18,8 @@ public class Divisors
 			}
 			i++;
 		}
+		/* you should have used a for loop and not while,
+		when we need to run a finite number of iterations like n, we use for */
 		
 	}
 }
